@@ -1,0 +1,24 @@
+input {
+  text-align: center;
+  font-weight: 666;
+  font-size: 2vh;
+  padding: 1vh;
+  border-radius: 1vh;
+}
+form {
+  margin-left: 89vh;
+}
+button {
+  padding: 1vh;
+  border: transparent;
+}
+
+#search-btn1 > button {
+  margin: 1vh;
+  padding-left: 1vh;
+}
+
+.search-result {
+  display: flex;
+  justify-content: center;
+}
